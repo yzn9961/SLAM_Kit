@@ -1,0 +1,95 @@
+%YAML:1.0
+---
+Camera_type: "PinHole"
+Camera_fx: 9.3286036738102428e+02
+Camera_fy: 9.3286036738102428e+02
+Camera_cx: 3.6914662742614746e+02
+Camera_cy: 2.4434061241149902e+02
+Camera_k1: -5.8983108821519992e-01
+Camera_k2: 3.4581621309901371e+00
+Camera_p1: -1.4876312562283264e-03
+Camera_p2: 6.8252976550466180e-04
+Camera_bFishEye: 0
+Camera_width: 640
+Camera_height: 480
+Camera_fps: 30
+Camera_bf: 5.5971622042861455e+01
+Camera_RGB: 1
+ThDepth: 35.
+LEFT_width: 640
+LEFT_height: 480
+LEFT_D: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -5.8983108821519992e-01, 3.4581621309901371e+00,
+       -1.4876312562283264e-03, 6.8252976550466180e-04,
+       -2.1781767026825730e+01 ]
+LEFT_K: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.3163937221286380e+02, 0., 3.1049199735474053e+02, 0.,
+       9.3111111243085520e+02, 2.6407044188276512e+02, 0., 0., 1. ]
+LEFT_R: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.9915390389011571e-01, 2.5770641911711616e-02,
+       -3.2052306572223341e-02, -2.5339676591288860e-02,
+       9.9958391891924270e-01, 1.3780051824934986e-02,
+       3.2394090994969239e-02, -1.2956197494146922e-02,
+       9.9939119458553471e-01 ]
+LEFT_P: !!opencv-matrix
+   rows: 3
+   cols: 4
+   dt: d
+   data: [ 9.3286036738102428e+02, 0., 3.6914662742614746e+02, 0., 0.,
+       9.3286036738102428e+02, 2.4434061241149902e+02, 0., 0., 0., 1.,
+       0. ]
+RIGHT_width: 640
+RIGHT_height: 480
+RIGHT_D: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -2.5998669152148424e-01, -7.1511693373428900e+00,
+       -1.3849944610914776e-03, 2.8584933281864656e-03,
+       6.0047518111028936e+01 ]
+RIGHT_K: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.3206911165491624e+02, 0., 2.9157366287657544e+02, 0.,
+       9.3460962233119335e+02, 2.1425984443881387e+02, 0., 0., 1. ]
+RIGHT_R: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 9.9662616139633864e-01, 2.3255599280775596e-02,
+       -7.8711317626445149e-02, -2.4306850966296503e-02,
+       9.9962734096869321e-01, -1.2424016418310395e-02,
+       7.8393057195783586e-02, 1.4295324059012605e-02,
+       9.9682003004230724e-01 ]
+RIGHT_P: !!opencv-matrix
+   rows: 3
+   cols: 4
+   dt: d
+   data: [ 9.3286036738102428e+02, 0., 3.6914662742614746e+02,
+       -2.5559623088668200e+03, 0., 9.3286036738102428e+02,
+       2.4434061241149902e+02, 0., 0., 0., 1., 0. ]
+ORBextractor_nFeatures: 1200
+ORBextractor_scaleFactor: 1.2000000000000000e+00
+ORBextractor_nLevels: 8
+ORBextractor_iniThFAST: 20
+ORBextractor_minThFAST: 7
+Viewer_KeyFrameSize: 5.0000000000000003e-02
+Viewer_KeyFrameLineWidth: 1
+Viewer_GraphLineWidth: 9.0000000000000002e-01
+Viewer_PointSize: 2
+Viewer_CameraSize: 8.0000000000000002e-02
+Viewer_CameraLineWidth: 3
+Viewer_ViewpointX: 0
+Viewer_ViewpointY: -6.9999999999999996e-01
+Viewer_ViewpointZ: -1.8000000000000000e+00
+Viewer_ViewpointF: 500

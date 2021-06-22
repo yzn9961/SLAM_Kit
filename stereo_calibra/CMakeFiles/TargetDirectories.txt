@@ -1,0 +1,3 @@
+/home/telemoro/桌面/SLAM/Code/stereo_calibra/CMakeFiles/rebuild_cache.dir
+/home/telemoro/桌面/SLAM/Code/stereo_calibra/CMakeFiles/stereo_calibra.dir
+/home/telemoro/桌面/SLAM/Code/stereo_calibra/CMakeFiles/edit_cache.dir
