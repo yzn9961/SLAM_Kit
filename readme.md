@@ -16,9 +16,9 @@
 
 **视频拍摄**
 
-- `2camVideo`：用于拍摄双目视频数据集
+- `2camVideo`：用于拍摄双目视频
 
-- `DepthCapture`：用于拍摄深度视频数据集
+- `DepthCapture`：用于拍摄深度视频
 
 **工具**
 
